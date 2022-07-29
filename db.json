@@ -1,3 +1,16 @@
 {
-  "user": []
+  "user": [
+    {
+      "rsname": "Random",
+      "payment": "Unpaid",
+      "date": "2022-07-15",
+      "id": 2
+    },
+    {
+      "rsname": "Random 2",
+      "payment": "Unpaid",
+      "date": "2022-07-29",
+      "id": 3
+    }
+  ]
 }
